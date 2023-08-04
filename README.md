@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sushantkadam15
 - 👀 I’m interested in developing web applications. I also like to unravel world secrets through data.
 - 🌱 I’m currently mastering React. 
-- 💞️ I’m looking to collaborate on new and interesting projects that will shake the world or better change it in a meaningful way.
+- 💞️ I’m looking to collaborate on new and exciting projects that will shake the world or better change it in a meaningful way.
 - 📫 How to reach me: sushantkadam15@gmail.com.
