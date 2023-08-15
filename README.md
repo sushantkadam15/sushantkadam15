@@ -11,13 +11,6 @@ I'm a Front-End Developer in the making with a passion for crafting user-friendl
 - **Familiarity:** Node.js, Express.js, RESTful APIs, EJS, SQL, Jest, Selenium
 - **UI/UX Design Principles**
 - **Technical Documentation**
-- **Troubleshooting**
-- **Project Management**
-- **Problem-Solving**
-- **Collaboration & Teamwork**
-- **Adaptability**
-- **Attention to Detail**
-- **Continuous Learning**
 
 ## 🌱 Currently Learning
 
