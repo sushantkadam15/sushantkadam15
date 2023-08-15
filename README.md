@@ -20,7 +20,9 @@ I'm a Front-End Developer in the making with a passion for crafting user-friendl
 ## 🚀 Projects
 
 - **RoboPass - Password Generator:** [Repo](link) | [Live Demo](link)
-- **COUNT() - Calculator:** [Repo](link) | [Live Demo](link)
+
+- Update Pending...
+- **COUNT() - Calculator:** [Repo](https://github.com/sushantkadam15/robopass-react) | [Live Demo](https://robopass.sushantk.com/)
 - **Weather App:** [Repo](link) | [Live Demo](link)
 
 ## 📫 Let's Connect
