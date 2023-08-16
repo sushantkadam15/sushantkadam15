@@ -23,6 +23,9 @@ I'm a Front-End Developer in the making with a passion for crafting user-friendl
 - **ClearSky - Weather App:** [Repo](https://github.com/sushantkadam15/clearsky) | [Live Demo](https://shy-ruby-harp-seal-yoke.cyclic.cloud/)
 - **COUNT() - Calculator:** [Repo](https://github.com/sushantkadam15/count-react-calculator) | [Live Demo](https://count.sushantk.com/)
 
+## 👨🏻‍💻 Freelance Work
+
+- **Ritual Mart - MVP Landing Page:** [Repo](https://github.com/sushantkadam15/ritual-mart) | [Live Demo](https://ritualmart.com/)
 
 ## 📫 Let's Connect
 
