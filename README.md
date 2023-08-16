@@ -20,10 +20,11 @@ I'm a Front-End Developer in the making with a passion for crafting user-friendl
 ## 🚀 Projects
 
 - **RoboPass - Password Generator:** [Repo](https://github.com/sushantkadam15/robopass-react) | [Live Demo](https://robopass.sushantk.com/)
+- **ClearSky - weather app:** [Repo](https://github.com/sushantkadam15/clearsky) | [Live Demo](https://shy-ruby-harp-seal-yoke.cyclic.cloud/)
 
 - Update Pending...
 - **COUNT() - Calculator:** [Repo]() | [Live Demo]()
-- **Weather App:** [Repo](link) | [Live Demo](link)
+
 
 ## 📫 Let's Connect
 
