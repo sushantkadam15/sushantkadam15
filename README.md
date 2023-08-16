@@ -21,9 +21,7 @@ I'm a Front-End Developer in the making with a passion for crafting user-friendl
 
 - **RoboPass - Password Generator:** [Repo](https://github.com/sushantkadam15/robopass-react) | [Live Demo](https://robopass.sushantk.com/)
 - **ClearSky - Weather App:** [Repo](https://github.com/sushantkadam15/clearsky) | [Live Demo](https://shy-ruby-harp-seal-yoke.cyclic.cloud/)
-
-- Update Pending...
-- **COUNT() - Calculator:** [Repo]() | [Live Demo]()
+- **COUNT() - Calculator:** [Repo](https://github.com/sushantkadam15/count-react-calculator) | [Live Demo](https://count.sushantk.com/)
 
 
 ## 📫 Let's Connect
