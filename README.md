@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sushantkadam15) 
 
-I'm a Front-End Developer in the making with a passion for crafting user-friendly web applications. With a strong background in IT operations and automation, I'm combining my problem-solving skills and technical acumen to build responsive, engaging front-end experiences.
+I'm a Software Developer in the making with a passion for crafting user-friendly web applications. With a strong background in IT operations and project management, I'm combining my problem-solving skills and technical acumen to build responsive, engaging front-end experiences.
 
 ## 🛠️ Skills
 
