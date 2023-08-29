@@ -1,21 +1,29 @@
-# Hi there, I'm Sushant 👋
+# Hi there 👋 I'm Sushant, pivoting into software engineering
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sushantkadam15) 
 
-I'm a Software Developer in the making with a passion for crafting user-friendly web applications. With a strong background in IT operations and project management, I'm combining my problem-solving skills and technical acumen to build responsive, engaging front-end experiences.
+With over 4 years of experience in IT operations and project management, I'm now combining my optimization and problem-solving abilities with coding to build user-friendly web applications.
 
-## 🛠️ Skills
+## 💻 Technical Skills
 
-- **Frontend:** React, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Axios, APIs
-- **Version Control:** Git, GitHub
-- **Familiarity:** Node.js, Express.js, RESTful APIs, EJS, SQL, Jest, Selenium
+- **Frontend:** React, JavaScript (ES6+), HTML, CSS, Styled Components
+- **Backend:** SQL
+- **Tools:** Git, GitHub, Visual Studio Code
 - **UI/UX Design Principles**
 - **Technical Documentation**
+- **Familiarity (through past [course](https://www.udemy.com/course/the-web-developer-bootcamp/) completed):**  Node.js, Express, EJS, RESTful APIs, MongoDB, Postman, TypeScript, Bootstrap
 
-## 🌱 Currently Learning
+## ⚙️ Methodologies
 
-- Pursuing the Meta Front-End Developer Professional Certificate
-- Enhancing my skills in creating interactive UIs with React and improving UX design.
+- Agile Development
+- UI/UX Design
+- Accessibility Best Practices
+
+## 🔭 Currently Learning
+
+- Pursuing the Meta Frontend Developer Certificate
+- Enhancing React skills and UX design for intuitive user interfaces
+- Learning backend development with Express and MongoDB
 
 ## 🚀 Projects
 
@@ -29,5 +37,7 @@ I'm a Software Developer in the making with a passion for crafting user-friendly
 
 ## 📫 Let's Connect
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sushant-p-kadam/) or check out more of my projects on [GitHub](https://github.com/sushantkadam15).
+I'm excited to join a collaborative engineering team where I can apply my optimization, technical, and problem-solving skills in an impactful way!
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sushant-p-kadam/).
 
