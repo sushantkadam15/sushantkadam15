@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sushantkadam15) 
 
-With over 4 years of experience in IT operations and project management, I'm now combining my optimization and problem-solving abilities with coding to build user-friendly web applications.
+> With over 4 years of experience in IT operations and project management, I'm now combining my optimization and problem-solving abilities with coding to build user-friendly web applications.
 
 ## 💻 Technical Skills
 
