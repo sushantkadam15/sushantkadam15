@@ -8,7 +8,8 @@
 
 - **Frontend:** React, JavaScript (ES6+), HTML, CSS, Styled Components, Tailwind CSS
 - **Tools:** Git, GitHub, Visual Studio Code
-- **Familiarity (through past [course](https://www.udemy.com/course/the-web-developer-bootcamp/) completed):**  Node.js, Express, EJS, RESTful APIs, MongoDB, Postman, TypeScript, Bootstrap, SQL
+- **Past Exposure:**
+  - Coursework in Node.js, Express, EJS, RESTful APIs, MongoDB, Postman, TypeScript, Bootstrap, and SQL. 
 - **Technical Documentation**
 
 ## ⚙️ Methodologies
@@ -34,7 +35,6 @@
 - **Ayask Media - Landing Page Redesign:** [Live Demo](https://ayaskmedia.com/)
   - Redesigned and built a new front end for Ayask Media using React and Tailwind CSS
   - Created all new content and optimized UX for an intuitive user experience
- 
 - **Ritual Mart - MVP Landing Page:** [Repo](https://github.com/sushantkadam15/ritual-mart) | [Live Demo](https://ritualmart.com/)
 
 ## 📫 Let's Connect
