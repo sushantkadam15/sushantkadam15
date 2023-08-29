@@ -6,12 +6,10 @@ With over 4 years of experience in IT operations and project management, I'm now
 
 ## 💻 Technical Skills
 
-- **Frontend:** React, JavaScript (ES6+), HTML, CSS, Styled Components
-- **Backend:** SQL
+- **Frontend:** React, JavaScript (ES6+), HTML, CSS, Styled Components, Tailwind CSS
 - **Tools:** Git, GitHub, Visual Studio Code
-- **UI/UX Design Principles**
+- **Familiarity (through past [course](https://www.udemy.com/course/the-web-developer-bootcamp/) completed):**  Node.js, Express, EJS, RESTful APIs, MongoDB, Postman, TypeScript, Bootstrap, SQL
 - **Technical Documentation**
-- **Familiarity (through past [course](https://www.udemy.com/course/the-web-developer-bootcamp/) completed):**  Node.js, Express, EJS, RESTful APIs, MongoDB, Postman, TypeScript, Bootstrap
 
 ## ⚙️ Methodologies
 
