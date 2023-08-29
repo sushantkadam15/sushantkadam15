@@ -31,7 +31,7 @@ With over 4 years of experience in IT operations and project management, I'm now
 
 ## 👨🏻‍💻 Freelance Work
 
-- **Ayask Media - MVP Landing Page:** [Live Demo](https://ayaskmedia.com/)
+- **Ayask Media - Landing Page Redesign:** [Live Demo](https://ayaskmedia.com/)
   - Redesigned and built a new front end for Ayask Media using React and Tailwind CSS
   - Created all new content and optimized UX for an intuitive user experience
 - **Ritual Mart - MVP Landing Page:** [Repo](https://github.com/sushantkadam15/ritual-mart) | [Live Demo](https://ritualmart.com/)
