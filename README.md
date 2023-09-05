@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sushant, pivoting into software engineering
+# Hi there 👋 I'm Sushant, transitioning from Operations to Software Engineering
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sushantkadam15) 
 
