@@ -6,7 +6,7 @@
 
 ## 💻 Technical Skills
 
-- **Frontend:** React, JavaScript (ES6+), HTML, CSS, Styled Components, Tailwind CSS
+- **Frontend:** React, JavaScript (ES6+), HTML, CSS, Tailwind CSS
 - **Tools:** Git, GitHub, Visual Studio Code
 - **Past Exposure:**
   - Coursework in Node.js, Express, EJS, RESTful APIs, MongoDB, Postman, TypeScript, Bootstrap, and SQL. 
