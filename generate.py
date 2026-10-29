@@ -105,6 +105,6 @@ def render(now=None):
 
 
 if __name__ == "__main__":
-    output = ROOT / "chat.svg"
+    output = ROOT / "intro.svg"
     output.write_text(render(), encoding="utf-8")
     print(f"Generated {output}")
