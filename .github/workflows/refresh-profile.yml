@@ -1,0 +1,34 @@
+name: Refresh profile greeting and Toronto weather
+
+on:
+  schedule:
+    - cron: "37 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate updated animated SVG
+        run: python generate.py
+
+      - name: Commit only when the SVG changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add chat.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Toronto weekday and weather"
+            git push
+          fi
