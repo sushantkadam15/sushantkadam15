@@ -1,31 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="550" height="436" viewBox="0 0 550 436" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="400" viewBox="0 0 550 400" fill="none">
 <title>Sushant’s introduction</title>
 <style>.bubble { fill: #e9e9eb; }
 text { fill: #242424; font-size: 18px; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; letter-spacing: -0.02em; }
 .dots { fill: #999999; }
-@keyframes wait { 0%, 100% { opacity: 0; } }
-@keyframes fade-in-out { 0%, 100% { opacity: 0; } 25%, 90% { opacity: 1; } }
-.typing-1 { opacity: 0; animation: wait 0.00s, fade-in-out .95s 0.00s; }
-.msg-1 { animation: wait 0.90s, msg-1 .22s 0.90s forwards; }
-@keyframes msg-1 { 0% { opacity: 0; transform: translate(10px, 5px); } 100% { opacity: 1; transform: translate(10px, 0px); } }
-.typing-2 { opacity: 0; animation: wait 1.15s, fade-in-out .95s 1.15s; }
-.msg-2 { animation: wait 2.10s, msg-2 .22s 2.10s forwards; }
-@keyframes msg-2 { 0% { opacity: 0; transform: translate(10px, 53px); } 100% { opacity: 1; transform: translate(10px, 48px); } }
-.typing-3 { opacity: 0; animation: wait 2.55s, fade-in-out .95s 2.55s; }
-.msg-3 { animation: wait 3.50s, msg-3 .22s 3.50s forwards; }
-@keyframes msg-3 { 0% { opacity: 0; transform: translate(10px, 101px); } 100% { opacity: 1; transform: translate(10px, 96px); } }
-.typing-4 { opacity: 0; animation: wait 4.25s, fade-in-out .95s 4.25s; }
-.msg-4 { animation: wait 5.20s, msg-4 .22s 5.20s forwards; }
-@keyframes msg-4 { 0% { opacity: 0; transform: translate(10px, 173px); } 100% { opacity: 1; transform: translate(10px, 168px); } }
-.typing-5 { opacity: 0; animation: wait 5.95s, fade-in-out .95s 5.95s; }
-.msg-5 { animation: wait 6.90s, msg-5 .22s 6.90s forwards; }
-@keyframes msg-5 { 0% { opacity: 0; transform: translate(10px, 245px); } 100% { opacity: 1; transform: translate(10px, 240px); } }
-.typing-6 { opacity: 0; animation: wait 7.85s, fade-in-out .95s 7.85s; }
-.msg-6 { animation: wait 8.80s, msg-6 .22s 8.80s forwards; }
-@keyframes msg-6 { 0% { opacity: 0; transform: translate(10px, 317px); } 100% { opacity: 1; transform: translate(10px, 312px); } }
-.typing-7 { opacity: 0; animation: wait 9.95s, fade-in-out .95s 9.95s; }
-.msg-7 { animation: wait 10.90s, msg-7 .22s 10.90s forwards; }
-@keyframes msg-7 { 0% { opacity: 0; transform: translate(10px, 389px); } 100% { opacity: 1; transform: translate(10px, 384px); } }
+@keyframes hidden { from, to { opacity: 0; } }
+@keyframes typing { 0%,100% { opacity: 0; } 17%,86% { opacity: 1; } }
+.typing-1 { opacity: 0; animation: hidden 0.00s, typing 0.94s 0.00s; }
+.msg-1 { animation: hidden 0.94s, pop-1 .24s 0.94s forwards; }
+@keyframes pop-1 { 0% { opacity: 0; transform: translate(10px, 5px); } 100% { opacity: 1; transform: translate(10px, 0px); } }
+.typing-2 { opacity: 0; animation: hidden 1.32s, typing 2.06s 1.32s; }
+.msg-2 { animation: hidden 3.38s, pop-2 .24s 3.38s forwards; }
+@keyframes pop-2 { 0% { opacity: 0; transform: translate(10px, 59px); } 100% { opacity: 1; transform: translate(10px, 54px); } }
+.typing-3 { opacity: 0; animation: hidden 3.76s, typing 2.40s 3.76s; }
+.msg-3 { animation: hidden 6.16s, pop-3 .24s 6.16s forwards; }
+@keyframes pop-3 { 0% { opacity: 0; transform: translate(10px, 137px); } 100% { opacity: 1; transform: translate(10px, 132px); } }
+.typing-4 { opacity: 0; animation: hidden 6.54s, typing 2.13s 6.54s; }
+.msg-4 { animation: hidden 8.66s, pop-4 .24s 8.66s forwards; }
+@keyframes pop-4 { 0% { opacity: 0; transform: translate(10px, 215px); } 100% { opacity: 1; transform: translate(10px, 210px); } }
+.typing-5 { opacity: 0; animation: hidden 9.04s, typing 0.72s 9.04s; }
+.msg-5 { animation: hidden 9.77s, pop-5 .24s 9.77s forwards; }
+@keyframes pop-5 { 0% { opacity: 0; transform: translate(10px, 293px); } 100% { opacity: 1; transform: translate(10px, 288px); } }
+.typing-6 { opacity: 0; animation: hidden 10.15s, typing 1.34s 10.15s; }
+.msg-6 { animation: hidden 11.49s, pop-6 .24s 11.49s forwards; }
+@keyframes pop-6 { 0% { opacity: 0; transform: translate(10px, 347px); } 100% { opacity: 1; transform: translate(10px, 342px); } }
 @media (prefers-color-scheme: dark) { .bubble { fill: #3b3b3d; } text { fill: #dcdcdc; } }
 @media (prefers-reduced-motion: reduce) { g[class^='msg-'] { animation: none; opacity: 1; } g[class^='typing-'] { display: none; } }</style>
 <g transform="translate(10, 0)" class="typing-1">
@@ -37,10 +34,10 @@ text { fill: #242424; font-size: 18px; font-family: 'Inter', -apple-system, Blin
 <circle cx="58.2054" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
 </g>
 <g transform="translate(10, 0)" class="msg-1">
-<rect width="245" height="42" rx="18" class="bubble" />
-<text x="15" y="27">Happy Thursday! 👋</text>
+<rect width="390" height="42" rx="18" class="bubble" />
+<text x="15" y="27">Happy Thursday! 👋 I&#x27;m Sushant.</text>
 </g>
-<g transform="translate(10, 48)" class="typing-2">
+<g transform="translate(10, 54)" class="typing-2">
 <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
 <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
 <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -48,24 +45,12 @@ text { fill: #242424; font-size: 18px; font-family: 'Inter', -apple-system, Blin
 <circle cx="42.8411" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
 <circle cx="58.2054" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
 </g>
-<g transform="translate(10, 48)" class="msg-2">
-<rect width="150" height="42" rx="18" class="bubble" />
-<text x="15" y="27">I&#x27;m Sushant.</text>
-</g>
-<g transform="translate(10, 96)" class="typing-3">
-<rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-<circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-<circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-<circle cx="27.4778" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.0s" repeatCount="indefinite" /></circle>
-<circle cx="42.8411" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
-<circle cx="58.2054" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
-</g>
-<g transform="translate(10, 96)" class="msg-3">
+<g transform="translate(10, 54)" class="msg-2">
 <rect width="435" height="66" rx="18" class="bubble" />
 <text x="15" y="27">I have a habit of turning simple questions</text>
 <text x="15" y="51">into entire projects. 😄</text>
 </g>
-<g transform="translate(10, 168)" class="typing-4">
+<g transform="translate(10, 132)" class="typing-3">
 <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
 <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
 <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -73,12 +58,12 @@ text { fill: #242424; font-size: 18px; font-family: 'Inter', -apple-system, Blin
 <circle cx="42.8411" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
 <circle cx="58.2054" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
 </g>
-<g transform="translate(10, 168)" class="msg-4">
+<g transform="translate(10, 132)" class="msg-3">
 <rect width="435" height="66" rx="18" class="bubble" />
 <text x="15" y="27">I build software, work with AI, and like</text>
 <text x="15" y="51">making complicated things feel simple.</text>
 </g>
-<g transform="translate(10, 240)" class="typing-5">
+<g transform="translate(10, 210)" class="typing-4">
 <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
 <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
 <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -86,12 +71,12 @@ text { fill: #242424; font-size: 18px; font-family: 'Inter', -apple-system, Blin
 <circle cx="42.8411" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
 <circle cx="58.2054" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
 </g>
-<g transform="translate(10, 240)" class="msg-5">
+<g transform="translate(10, 210)" class="msg-4">
 <rect width="435" height="66" rx="18" class="bubble" />
 <text x="15" y="27">The best part? Turning &quot;what if...&quot; into</text>
 <text x="15" y="51">&quot;hey, this actually works!&quot;</text>
 </g>
-<g transform="translate(10, 312)" class="typing-6">
+<g transform="translate(10, 288)" class="typing-5">
 <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
 <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
 <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -99,12 +84,11 @@ text { fill: #242424; font-size: 18px; font-family: 'Inter', -apple-system, Blin
 <circle cx="42.8411" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
 <circle cx="58.2054" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
 </g>
-<g transform="translate(10, 312)" class="msg-6">
-<rect width="350" height="66" rx="18" class="bubble" />
-<text x="15" y="27">Currently in Toronto 🇨🇦 —</text>
-<text x="15" y="51">⛅ 20°C, partly cloudy</text>
+<g transform="translate(10, 288)" class="msg-5">
+<rect width="300" height="42" rx="18" class="bubble" />
+<text x="15" y="27">Currently in Toronto 🇨🇦</text>
 </g>
-<g transform="translate(10, 384)" class="typing-7">
+<g transform="translate(10, 342)" class="typing-6">
 <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
 <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
 <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -112,7 +96,7 @@ text { fill: #242424; font-size: 18px; font-family: 'Inter', -apple-system, Blin
 <circle cx="42.8411" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" /></circle>
 <circle cx="58.2054" cy="20.9773" r="5.02275" class="dots"><animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" /></circle>
 </g>
-<g transform="translate(10, 384)" class="msg-7">
+<g transform="translate(10, 342)" class="msg-6">
 <rect width="445" height="42" rx="18" class="bubble" />
 <text x="15" y="27">Have an idea or tricky problem? Let&#x27;s talk!</text>
 </g>
