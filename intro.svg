@@ -5,23 +5,23 @@ text { fill: #242424; font-size: 18px; font-family: 'Inter', -apple-system, Blin
 .dots { fill: #999999; }
 @keyframes hidden { from, to { opacity: 0; } }
 @keyframes typing { 0%,100% { opacity: 0; } 17%,86% { opacity: 1; } }
-.typing-1 { opacity: 0; animation: hidden 0.00s, typing 0.88s 0.00s; }
-.msg-1 { animation: hidden 0.88s, pop-1 .24s 0.88s forwards; }
+.typing-1 { opacity: 0; animation: hidden 0.00s, typing 0.91s 0.00s; }
+.msg-1 { animation: hidden 0.91s, pop-1 .24s 0.91s forwards; }
 @keyframes pop-1 { 0% { opacity: 0; transform: translate(10px, 5px); } 100% { opacity: 1; transform: translate(10px, 0px); } }
-.typing-2 { opacity: 0; animation: hidden 1.25s, typing 2.06s 1.25s; }
-.msg-2 { animation: hidden 3.32s, pop-2 .24s 3.32s forwards; }
+.typing-2 { opacity: 0; animation: hidden 1.29s, typing 2.06s 1.29s; }
+.msg-2 { animation: hidden 3.35s, pop-2 .24s 3.35s forwards; }
 @keyframes pop-2 { 0% { opacity: 0; transform: translate(10px, 59px); } 100% { opacity: 1; transform: translate(10px, 54px); } }
-.typing-3 { opacity: 0; animation: hidden 3.70s, typing 2.40s 3.70s; }
-.msg-3 { animation: hidden 6.10s, pop-3 .24s 6.10s forwards; }
+.typing-3 { opacity: 0; animation: hidden 3.73s, typing 2.40s 3.73s; }
+.msg-3 { animation: hidden 6.13s, pop-3 .24s 6.13s forwards; }
 @keyframes pop-3 { 0% { opacity: 0; transform: translate(10px, 137px); } 100% { opacity: 1; transform: translate(10px, 132px); } }
-.typing-4 { opacity: 0; animation: hidden 6.48s, typing 2.12s 6.48s; }
-.msg-4 { animation: hidden 8.60s, pop-4 .24s 8.60s forwards; }
+.typing-4 { opacity: 0; animation: hidden 6.51s, typing 2.12s 6.51s; }
+.msg-4 { animation: hidden 8.63s, pop-4 .24s 8.63s forwards; }
 @keyframes pop-4 { 0% { opacity: 0; transform: translate(10px, 215px); } 100% { opacity: 1; transform: translate(10px, 210px); } }
-.typing-5 { opacity: 0; animation: hidden 8.98s, typing 0.72s 8.98s; }
-.msg-5 { animation: hidden 9.70s, pop-5 .24s 9.70s forwards; }
+.typing-5 { opacity: 0; animation: hidden 9.01s, typing 0.72s 9.01s; }
+.msg-5 { animation: hidden 9.73s, pop-5 .24s 9.73s forwards; }
 @keyframes pop-5 { 0% { opacity: 0; transform: translate(10px, 293px); } 100% { opacity: 1; transform: translate(10px, 288px); } }
-.typing-6 { opacity: 0; animation: hidden 10.08s, typing 1.34s 10.08s; }
-.msg-6 { animation: hidden 11.43s, pop-6 .24s 11.43s forwards; }
+.typing-6 { opacity: 0; animation: hidden 10.11s, typing 1.34s 10.11s; }
+.msg-6 { animation: hidden 11.46s, pop-6 .24s 11.46s forwards; }
 @keyframes pop-6 { 0% { opacity: 0; transform: translate(10px, 347px); } 100% { opacity: 1; transform: translate(10px, 342px); } }
 @media (prefers-color-scheme: dark) { .bubble { fill: #3b3b3d; } text { fill: #dcdcdc; } }
 @media (prefers-reduced-motion: reduce) { g[class^='msg-'] { animation: none; opacity: 1; } g[class^='typing-'] { display: none; } }</style>
@@ -35,7 +35,7 @@ text { fill: #242424; font-size: 18px; font-family: 'Inter', -apple-system, Blin
 </g>
 <g transform="translate(10, 0)" class="msg-1">
 <rect width="390" height="42" rx="18" class="bubble" />
-<text x="15" y="27">Happy Monday! 👋 I&#x27;m Sushant.</text>
+<text x="15" y="27">Happy Tuesday! 👋 I&#x27;m Sushant.</text>
 </g>
 <g transform="translate(10, 54)" class="typing-2">
 <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
